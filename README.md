@@ -10,7 +10,7 @@ As opposed to the website we built in our module, in our challenge we have added
 
 Compared to the old website, we are able to use multiple filters in order to disect our data which is a big improvement for the wesbite as a whole. This was done with the following change to our app.js file:
 
-![](https://github.com/DanMarks12/UFO-Sightings/blob/main/static/Images/filter_at_work.JPG)
+![](https://github.com/DanMarks12/UFO-Sightings/blob/main/static/Images/add_new_filters.JPG)
 
 ## Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
 A couple draw backs to point out in changing the website is first the complexity of the code. It took me a lot more time coming up with a way to use dynamic filter so that a) multiple criteria can be selected and b) the code pulling out the correct filtering criteria. Although it currently works with the current data set, if there was ever an updated data set we would need to go back into the javascript code and further refactor it so match the new criteria. Speaking of new criteria, a suggestion I could give Dana is maybe add additional items for each sighting. The biggest I can think of is pictures (jpg) or videos (mp4) or links to these to provide further TANGIBLE evidence. Adding these will give these sightings more legitimacy to their accounts. Another thing they could add is witnesses, if the accounts are just reported by 1 person or maybe a family of 5, or a group of 20 strangers. Things like these can further describe the sitings we have. 
